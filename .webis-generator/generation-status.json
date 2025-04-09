@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-בגדים-גמא-9943",
-  "businessName": "חנות בגדים גמא",
-  "created": "2025-04-09T17:32:23.789Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-09T17:32:49.636Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-bgdym-gma-1744219943374"
 }
