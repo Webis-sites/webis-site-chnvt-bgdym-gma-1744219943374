@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-09T17:36:01.911Z",
+  "timestamp": "2025-04-09T17:36:54.581Z",
   "status": {
     "totalComponents": 5,
-    "completedComponents": 3,
+    "completedComponents": 4,
     "failedComponents": 0,
-    "progress": 60
+    "progress": 80
   },
   "components": [
     {
@@ -28,7 +28,7 @@
     {
       "name": "AboutUs",
       "type": "about",
-      "status": "pending",
+      "status": "completed",
       "description": "Brand story section highlighting the store's experience and values"
     },
     {
