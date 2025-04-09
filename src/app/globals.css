@@ -20,6 +20,9 @@
   --border-radius-md: 0.75rem;
   --border-radius-lg: 1rem;
   --transition-speed: 0.3s;
+
+  --neumorphic-shadow-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.15), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --font-hebrew: 'Heebo', 'Assistant', sans-serif;
 }
 
     html {
