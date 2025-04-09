@@ -1,11 +1,42 @@
 {
-  "timestamp": "2025-04-09T17:32:49.636Z",
+  "timestamp": "2025-04-09T17:33:41.664Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 5,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Site header with navigation, logo, and mobile menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section showcasing the clothing store's brand with animated elements and primary CTA"
+    },
+    {
+      "name": "FeaturedProducts",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of trending and seasonal clothing products with interactive elements"
+    },
+    {
+      "name": "AboutUs",
+      "type": "about",
+      "status": "pending",
+      "description": "Brand story section highlighting the store's experience and values"
+    },
+    {
+      "name": "Services",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of special services offered by the clothing store"
+    }
+  ],
   "repoName": "webis-site-chnvt-bgdym-gma-1744219943374"
 }
