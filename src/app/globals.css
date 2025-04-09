@@ -30,6 +30,10 @@
 
   --card-shadow-inset: inset 2px 2px 5px #d1d9e6, inset -2px -2px 5px #ffffff;
   --glass-blur: blur(10px);
+
+  --shadow-neumorphic: 8px 8px 16px rgba(174, 174, 192, 0.4), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-inner-neumorphic: inset 2px 2px 5px rgba(174, 174, 192, 0.2), inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+  --border-radius: 1.25rem;
 }
 
     html {
